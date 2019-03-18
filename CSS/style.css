@@ -1,5 +1,5 @@
 .container {margin-left: 15px}
-.FP {text-align: center; margin-top:20px}
+.FP {font-family: "PlayfairDisplay-Regular"; text-align: center; margin-top:20px}
 .box {background-color:#22B573; width: 1380px; height: 700px; margin: 20px 40px 40px 40px; }
 .d-block {display: inline-block;}
 .navigation {padding-top: 50px; vertical-align: top; padding-left: 150px}
@@ -8,6 +8,8 @@
 .logo {vertical-align: top; padding-top: 50px}
 .img {width: 150px; vertical-align: top; margin: 15px;}
 .article {width:600px; background-color: #FCEE21; vertical-align: top; margin-left: 70px; margin-top: 50px}
-.article1 {width:600px; background-color: #FCEE21; vertical-align: top; margin-left: 20px; margin-top: 50px;}
+.article1 {width:600px; height: 363px; background-color: #FCEE21; vertical-align: top; margin-left: 20px; margin-top: 50px;}
 .text1 {font-family: "ALK Life", sans-serif; width: 392px; font-size: 14px; padding-left: 10px; margin-top: 10px}
-.text2 {width:570px; font-size: 14px; padding-left: 10px; margin-top: 10px; margin-bottom: 10px}
+.text1-2 {font-family: "BPG Classic Medium", sans-serif; width: 392px; font-size: 14px; padding-left: 10px; margin-top: 10px}
+.text2 {font-family: "ALK Life"; width:570px; font-size: 14px; padding-left: 10px; margin-top: 10px; margin-bottom: 10px}
+.text2-2 {font-family: "BPG Classic Medium"; width:570px; font-size: 14px; padding-left: 10px; margin-top: 10px; margin-bottom: 10px}
